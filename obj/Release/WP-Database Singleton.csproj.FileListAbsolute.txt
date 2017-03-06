@@ -1,0 +1,7 @@
+c:\users\grekomp\documents\visual studio 2015\Projects\WP-Database\WP-Database\bin\Release\WP-Database.exe.config
+c:\users\grekomp\documents\visual studio 2015\Projects\WP-Database\WP-Database\bin\Release\WP-Database.exe
+c:\users\grekomp\documents\visual studio 2015\Projects\WP-Database\WP-Database\bin\Release\WP-Database.pdb
+c:\users\grekomp\documents\visual studio 2015\Projects\WP-Database\WP-Database\bin\Release\System.Data.SQLite.dll
+c:\users\grekomp\documents\visual studio 2015\Projects\WP-Database\WP-Database\bin\Release\System.Data.SQLite.xml
+c:\users\grekomp\documents\visual studio 2015\Projects\WP-Database\WP-Database\obj\Release\WP-Database.exe
+c:\users\grekomp\documents\visual studio 2015\Projects\WP-Database\WP-Database\obj\Release\WP-Database.pdb

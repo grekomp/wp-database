@@ -1,0 +1,8 @@
+c:\users\grekomp\documents\visual studio 2015\Projects\WP-Database\WP-Database\bin\Debug\WP-Database.exe.config
+c:\users\grekomp\documents\visual studio 2015\Projects\WP-Database\WP-Database\bin\Debug\WP-Database.exe
+c:\users\grekomp\documents\visual studio 2015\Projects\WP-Database\WP-Database\bin\Debug\WP-Database.pdb
+c:\users\grekomp\documents\visual studio 2015\Projects\WP-Database\WP-Database\bin\Debug\System.Data.SQLite.dll
+c:\users\grekomp\documents\visual studio 2015\Projects\WP-Database\WP-Database\bin\Debug\System.Data.SQLite.xml
+c:\users\grekomp\documents\visual studio 2015\Projects\WP-Database\WP-Database\obj\Debug\WP-Database Singleton.csprojResolveAssemblyReference.cache
+c:\users\grekomp\documents\visual studio 2015\Projects\WP-Database\WP-Database\obj\Debug\WP-Database.exe
+c:\users\grekomp\documents\visual studio 2015\Projects\WP-Database\WP-Database\obj\Debug\WP-Database.pdb
